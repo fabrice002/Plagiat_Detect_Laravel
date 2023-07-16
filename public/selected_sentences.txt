@@ -1,0 +1,3 @@
+La manipulation de données est une des utilisations les plus courantes des ordinateurs
+C'est la pièce centrale d'un système d'information ou d'un système de base de données (ou base de données tout court), qui régit          la collecte, le stockage, le retraitement et l'utilisation de données
+Lorsque plusieurs objets nommés « bases de données » sont constitués sous forme de collection, on parle alors d'une banque de          données
