@@ -44,10 +44,3 @@ temp_file = "extracted_text.txt"
 with open(temp_file, "w", encoding="utf-8") as file:
         file.write(text)
 print(0)
-""" try:
-    print(text)
-except UnicodeEncodeError:
-    temp_file = "extracted_text.txt"
-    with open(temp_file, "w", encoding="utf-8") as file:
-        file.write(text)
-    print(f"Unable to print text. Extracted text is saved to: {os.path.abspath(temp_file)}") """
